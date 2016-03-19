@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/2-18-16 Flight Sim.unity
+  isLoaded: 1
+  isActive: 1
